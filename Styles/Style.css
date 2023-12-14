@@ -1,3 +1,12 @@
+body {
+    background-image: url("https://cdn.shopify.com/s/files/1/0305/4075/9177/products/papel-de-parede-adesivo-folha-natureza-n02268-273452.jpg?v=1643339362");
+    cursor: url("/Image/elefante_cursor1.png"), auto;
+}
+
+body {
+    background-image: url("https://cdn.shopify.com/s/files/1/0305/4075/9177/products/papel-de-parede-adesivo-folha-natureza-n02268-273452.jpg?v=1643339362");
+}
+
 * {
     color: rgb(1, 4, 5);
     font-family: Arial, Helvetica, sans-serif
@@ -25,9 +34,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-body {
-    background-image: url("https://cdn.shopify.com/s/files/1/0305/4075/9177/products/papel-de-parede-adesivo-folha-natureza-n02268-273452.jpg?v=1643339362");
-}
 
 div {
     background-color: white;
