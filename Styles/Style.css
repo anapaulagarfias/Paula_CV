@@ -1,8 +1,22 @@
+*{
+    color:rgb(1, 4, 5);
+    font-family:Arial, Helvetica, sans-serif
+    }
+
 h1{
-    color:rgb(255, 0, 128);
+    color: #FF4500;
     font-family: Arial, Helvetica, sans-serif;
 }
-p{
-color:rgb(1, 4, 5);
-font-family:Arial, Helvetica, sans-serif
+
+#me{
+    color:#FF6347
+}
+
+h2{
+    color: Orange;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+
 }
