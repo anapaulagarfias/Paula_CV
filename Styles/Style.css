@@ -39,7 +39,7 @@ div {
     background-color: white;
     padding: 10px 20px 30px 40px;
     border: 2px solid black;
-    margin: 20px 40px;
+    margin: 20px 20px;
 }
 
 #parte1 {
@@ -67,9 +67,25 @@ a:hover {
     border: 3px solid black;
 }
 
-#image2:hover {
+/* #image2:hover {
     border-radius: 350px;
     height: 350px;
     transform: scale(1.5);
     transition: 0.5s;
+} */
+
+#button1{
+    background-color: orange;
+    border: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px 40px;
+    border-radius: 5px;
+    height: 30px;
+    transform: scale(1.5);
+
 }
+
+#button1_index {
+    border: none;
+    text-decoration: none;
+ }
